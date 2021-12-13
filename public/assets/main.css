@@ -62,20 +62,16 @@ header #github, header #github:active, header #github:hover  {
     text-align: center;
     color: #FFF;
     border-radius: 10px;
-}
-
-header #github i {
-    margin: 0px 4px; 
-}
 
 
 .container {
-    width: 1600px;
+    width: 900px;
     background: #23272a;
     padding: 25px;
     margin: 5px 0px;
     text-align: left;
     display: block;
+    border: solid 1px rgb(255, 255, 255, .2);
 
 
 }
