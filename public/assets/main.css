@@ -69,6 +69,14 @@ header #github i {
 }
 
 
+.container {
+    width: 1600px;
+    background: #23272a;
+    padding: 25px;
+    margin: 5px 0px;
+    text-align: left;
+    display: block;
+
 
 }
 
